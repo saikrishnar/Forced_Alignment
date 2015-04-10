@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/4807/trunk/egs/timit/s5/local/nnet
+END
+run_autoencoder.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/4677/trunk/egs/timit/s5/local/nnet/run_autoencoder.sh
+END
+run_dnn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4677/trunk/egs/timit/s5/local/nnet/run_dnn.sh
+END
